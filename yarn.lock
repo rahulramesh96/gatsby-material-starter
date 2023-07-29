@@ -9425,14 +9425,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.3.0":
-  version: 8.3.0
-  resolution: "eslint-config-prettier@npm:8.3.0"
+"eslint-config-prettier@npm:^8.9.0":
+  version: 8.9.0
+  resolution: "eslint-config-prettier@npm:8.9.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: df4cea3032671995bb5ab07e016169072f7fa59f44a53251664d9ca60951b66cdc872683b5c6a3729c91497c11490ca44a79654b395dd6756beb0c3903a37196
+  checksum: a675d0dabd76b700ef2d062b5ec6a634e105a8e8c070f95281fd2ccb614527fac60b4c758132058c50f0521fd19313f1f5be45ce9ebf081f2e5f77ae6eb7d8db
   languageName: node
   linkType: hard
 
@@ -11619,7 +11619,7 @@ __metadata:
     eslint: ^7.32.0
     eslint-config-airbnb: ^18.2.1
     eslint-config-airbnb-typescript: ^14.0.1
-    eslint-config-prettier: ^8.3.0
+    eslint-config-prettier: ^8.9.0
     eslint-plugin-cypress: ^2.12.1
     eslint-plugin-import: ^2.25.2
     eslint-plugin-jest: ^25.2.2
@@ -11760,7 +11760,7 @@ __metadata:
     eslint: ^7.32.0
     eslint-config-airbnb: ^18.2.1
     eslint-config-airbnb-typescript: ^14.0.1
-    eslint-config-prettier: ^8.3.0
+    eslint-config-prettier: ^8.9.0
     eslint-plugin-cypress: ^2.12.1
     eslint-plugin-import: ^2.25.2
     eslint-plugin-jest: ^25.2.2
@@ -11838,7 +11838,7 @@ __metadata:
     eslint: ^7.32.0
     eslint-config-airbnb: ^18.2.1
     eslint-config-airbnb-typescript: ^14.0.1
-    eslint-config-prettier: ^8.3.0
+    eslint-config-prettier: ^8.9.0
     eslint-plugin-graphql: ^4.0.0
     eslint-plugin-import: ^2.25.2
     eslint-plugin-jest: ^25.2.2
